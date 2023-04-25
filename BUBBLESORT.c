@@ -19,7 +19,7 @@ void Bubble(int a[5], int n)
             }
         }
     }
-printf("First ele: %d \n Last Ele:%d", a[0],a[4]);
+printf("First element: %d \n Last Element:%d", a[0],a[4]);
 }
 int main()
 {
